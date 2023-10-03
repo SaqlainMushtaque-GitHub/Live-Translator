@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Live-Translator/static/css/main.5ccabd86.css",
+    "main.js": "/Live-Translator/static/js/main.5d2b43d8.js",
+    "index.html": "/Live-Translator/index.html",
+    "main.5ccabd86.css.map": "/Live-Translator/static/css/main.5ccabd86.css.map",
+    "main.5d2b43d8.js.map": "/Live-Translator/static/js/main.5d2b43d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ccabd86.css",
+    "static/js/main.5d2b43d8.js"
+  ]
+}
